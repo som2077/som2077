@@ -87,3 +87,4 @@ Have an exciting project, app idea, or architectural challenge? Let's talk!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/som2077)
 
 </div>
+
