@@ -18,9 +18,6 @@
   <a href="https://github.com/som2077">
     <img src="https://img.shields.io/github/followers/som2077?label=Followers&style=flat-square&color=181717&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/som2077/starter-kits">
-    <img src="https://img.shields.io/badge/Flagship-SaaS_Starter_Kits-00C7B7?style=flat-square&logo=rocket" alt="Flagship Project" />
-  </a>
 </p>
 
 ---
@@ -75,40 +72,6 @@ I am a versatile **Full-Stack & Mobile Engineer** with end-to-end expertise span
 ![Computer Vision](https://img.shields.io/badge/OpenCV_&_MediaPipe-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Architecture & Stack |
-| :--- | :--- | :--- |
-| 🚀 [**SaaS Starter Kits Hub**](https://github.com/som2077/starter-kits) | Production-ready multi-platform SaaS ecosystem for Web & Mobile | **Next.js 16**, **Expo SDK 57**, **Supabase SSR**, **Drizzle ORM**, **Lemon Squeezy**, **RevenueCat** |
-| 👗 [**LookAI**](https://github.com/som2077/LookAI) | AI Fashion Companion Mobile App & Web Platform | **React Native**, **Expo**, **Next.js**, **Supabase**, AI outfit generation & body analysis |
-| 🧩 [**Sudoku Monorepo**](https://github.com/som2077/sudoku) | Native Mobile Sudoku Game + Instant Web Puzzle Portal | **React Native (Expo)**, **Next.js (App Router)**, **Tailwind CSS** |
-| 🎮 [**Games Website**](https://github.com/som2077/games-website) | Modern high-speed browser gaming portal & arcades | **Next.js 16**, **HTML5 Canvas**, **Tailwind CSS**, Optimized monetization loops |
-| 🏋️ [**Gym Pose AI**](https://github.com/som2077/gym-pose-AI) | Computer vision workout tracker & real-time posture corrector | **Python**, **OpenCV**, **MediaPipe**, Real-time angle & repetition tracking |
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=som2077&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,prs,contribs&include_all_commits=true" height="165" alt="Som's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som2077&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=som2077&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-</p>
 
 </div>
 
